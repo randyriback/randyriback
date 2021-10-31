@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I'm Randy Riback, and I'm a full-stack software developer.
+I'm Randy Riback (he/him), and I'm a full-stack software developer.
 
-Feel free to check out my <a href="https://randyriback.com">personal website</a>, and make sure to say hello!
-<!--
+Feel free to check out my <a href="https://randyriback.com">personal website</a> and say "hello" :)
+<!--:)
 **randyriback/randyriback** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
