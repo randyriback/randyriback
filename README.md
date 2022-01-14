@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-I'm Randy Riback (he/him), and I'm a full-stack software developer.
+🌱 I'm Randy Riback (he/him), and I'm a full-stack software developer.
 
-Feel free to check out my <a href="https://randyriback.com">personal website</a> and say "hello" :)
+🔭 I’m currently working on generative sound art and going deeper into full-stack web development @ [the Recurse Center](https://recurse.com)
+
+😄 Feel free to check out my <a href="https://randyriback.com">personal website</a> and say "hello" 
+
+
 <!--:)
 **randyriback/randyriback** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
