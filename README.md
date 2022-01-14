@@ -1,4 +1,4 @@
-### Hi there 👋
+### Greetings! 👋
 
 🌱 I'm Randy Riback (he/him), and I'm a full-stack software developer.
 
