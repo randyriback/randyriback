@@ -2,7 +2,7 @@
 
 🌱 I'm Randy Riback (he/him).
 
-🔭 Recently I had the pleasure of working on some generative sound art and browser-based MIDI controllers @ [the Recurse Center](https://recurse.com).
+🔭 Recently, I've had the pleasure of working on some generative sound art and browser-based MIDI controllers @ [the Recurse Center](https://recurse.com).
 
 😄 Currently, I'm happily assisting [Pares.ly](https//parse.ly) customers as a Support Engineer.
 
