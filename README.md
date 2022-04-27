@@ -2,7 +2,7 @@
 
 🌱 I'm Randy Riback (he/him), and I'm a full-stack software developer.
 
-🔭 I’m currently working on generative sound art and MIDI controllers for the browser @ [the Recurse Center](https://recurse.com).
+🔭 I recently worked on generative sound art and MIDI controllers for the browser @ [the Recurse Center](https://recurse.com), and am now assisting [Pares.ly](https//parse.ly) customers as Support Engineer 😄
 
 📫 Feel free to check out my <a href="https://randyriback.com">personal website</a> and say hello.
 
